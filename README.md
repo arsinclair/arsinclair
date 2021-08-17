@@ -1,4 +1,5 @@
-### Hi there 👋
+[![arsinclair's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsinclair&count_private=true&show_icons=true&theme=vue&bg_color=0,FFFFFF,DDDDDD&line_height=33)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **arsinclair/arsinclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
