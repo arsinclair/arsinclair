@@ -8,6 +8,5 @@ Hiya👋, I'm Raman Sinclair, a software engineer with many years of experience 
 - I love playing music myself on my piano🎹;
 - I'm a [Baháʼí](https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith)
 - I prefer Cats🐈;
-- I'm currently freelancing, but I welcome offers;
 - I would love to collaborate on something great, so I'm open for ideas;
 - I code at night.
